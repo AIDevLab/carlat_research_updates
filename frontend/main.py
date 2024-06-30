@@ -1,7 +1,11 @@
 import streamlit as st
 import sys
 
+sys.path.append("mount/src/carlat_research_updates")
+
 sys.path.append("mount/src/carlat_research_updates/src")
+sys.path.append("mount/src/carlat_research_updates/src/extract_pdf_content")
+sys.path.append("mount/src/carlat_research_updates/src/process_pdf")
 
 from docs_txt import *
 from process_pdf import *
