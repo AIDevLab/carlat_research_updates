@@ -10,6 +10,7 @@ from process_pdf import *
 
 from extract_pdf_content import *
 from docx import Document as doc
+print(print(os.path.dirname(os.path.abspath(__file__))))
 
 
 
@@ -22,7 +23,7 @@ with st.container(border=False):
     file = st.file_uploader(label="", type=[".pdf"], key="upload")
     if file:
         # process the pdf
-        path = "mount/src/carlat_research_updates/documents"
+        path = "mount/src/carlat_research_updates/frontend/documents"
         raw_text = get_text_from_dir(path)
         generated_content = get_research_updates(raw_text)
 

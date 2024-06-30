@@ -1,9 +1,9 @@
 import os
 from openai import OpenAI
 from PyPDF2 import PdfReader
-from langchain_openai import OpenAIEmbeddings
-from langchain_community.vectorstores import FAISS
-import docx 
+
+
+print(os.path.dirname(os.path.abspath(__file__)))
 
 
 def get_text_from_dir(dir_path):

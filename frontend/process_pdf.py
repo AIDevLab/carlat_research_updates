@@ -4,6 +4,7 @@ import streamlit as st
 
 
 client = OpenAI(api_key=st.secrets["api_key"])
+print(print(os.path.dirname(os.path.abspath(__file__))))
 
 
 
