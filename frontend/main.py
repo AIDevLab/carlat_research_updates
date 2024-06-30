@@ -1,8 +1,8 @@
 import streamlit as st
 import sys
 
-sys.path.append("mount/src/carlat_research_updates")
-sys.path.append("mount/src/carlat_research_updates/src")
+sys.path.append("/mount/src/carlat_research_updates")
+sys.path.append("/mount/src/carlat_research_updates/src")
 
 
 from docs_txt import *
@@ -23,7 +23,7 @@ with st.container(border=False):
     file = st.file_uploader(label="", type=[".pdf"], key="upload")
     if file:
         # process the pdf
-        path = "mount/src/carlat_research_updates/frontend/documents"
+        path = "/mount/src/carlat_research_updates/frontend/documents"
         raw_text = get_text_from_dir(path)
         generated_content = get_research_updates(raw_text)
 
