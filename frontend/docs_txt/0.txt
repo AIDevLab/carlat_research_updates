@@ -1,0 +1,533 @@
+
+© 2022 Journal of Research in Medical Sciences | Published by Wolters Kluwer - Medknow | 2021 | 1Metabolic effects of adding T opiramate on 
+Aripiprazole in bipolar patients aged between 
+6-18 years, a randomized, double-blind,  
+placebo-controlled trial
+Soroor Arman, Mostafa Haghshenas
+Department of Psychiatry, Behavioral Sciences Research Center, School of Medicine, Isfahan University of Medical Sciences, Isfahan, Iran
+functioning and lower treatment adherence.[6] Hence, 
+effective pharmacological treatment is an important 
+component of treatment.[7] Pharmacological treatments 
+may reduce long‑term morbidity in juvenile BD.[8] 
+The use of second‑generation antipsychotics or 
+second‑generation antipsychotics  (SGAs) has been 
+developed because of their effectiveness and much 
+lower rates of extrapyramidal side effects compared 
+with old‑generation drugs.[9] However, in many cases, 
+SGAs have unwanted side effects, especially Mets.[10] 
+It has been shown that SGA‑related Mets is even more 
+dramatic in children and adolescents than in adults 
+and these patients already suffer from low self‑esteem INTRODUCTION
+Juvenile bipolar disorder is a life‑long psychiatric illness 
+associated with significant morbidity and increased 
+mortality due to both medical comorbidities such as 
+metabolic syndrome  (Mets) and high suicide rate.[1,2] 
+The presence of  Mets seems to be related not only to the 
+general medical status but also to the psychiatric status of 
+people with bipolar disorder  (BD).[3-5] It has been reported 
+that patients with comorbid BD and Mets undergo more 
+hospitalizations and show poorer insight and global Background:  second-generation antipsychotics /uni00A0(SGAs) are associated with metabolic side e ﬀects in child and adolescents. /T_he aim 
+of this study is to evaluate the metabolic e ﬀects of adding topiramate on aripiprazole in patients with bipolar disorder /uni00A0(BD) aged 
+between 6 and 18 /uni00A0years. Materials and Methods  : A/uni00A012-week, double-blind, placebo-controlled, randomized trial was conducted in 
+the child psychiatric units of university hospitals. Forty patients aged between 6 and 18 /uni00A0years with new diagnosis of BD participated 
+in the study. Eleven patients were excluded. Subjects received aripiprazole plus topiramate /uni00A0(Group /uni00A01, n/uni00A0=/uni00A015) or aripiprazole /uni00A0(Group /uni00A02, 
+n/uni00A0=/uni00A014) for a 3-month period. Young mania rating scale /uni00A0(YMRS) was used for measuring the manic symptoms severity. Primary 
+outcome measures included weight, height, body mass index /uni00A0(BMI), waist circumference, abdominal circumference, and blood 
+pressure. Secondary outcome measures included fasting blood glucose, hemoglobin A1C, fasting insulin, and fasting lipid proﬁle. 
+Changes in metabolic proﬁle during the study were obtained by using repeated measures of variance. Results:  During a 3-month 
+follow-up, YMRS measures decreased signiﬁcantly in both groups with a signiﬁcant di ﬀerence between groups /uni00A0(P/uni00A0</uni00A00.05). /T_he mean 
+of weight, BMI, and high-density lipoprotein levels in group /uni00A02 were signiﬁcantly increased /uni00A0(P/uni00A0</uni00A00.05), and the mean of low-density 
+lipoprotein level in group /uni00A01 was decreased /uni00A0(P/uni00A0</uni00A00.05). No signiﬁcant di ﬀerences were observed in anthropometric parameters and 
+metabolic indices between groups /uni00A0(P/uni00A0>/uni00A00.05). Conclusion:  Adding topiramate on aripiprazole is e ﬀectivefor controlling bipolar 
+disorder as well as metabolic adverse e ﬀects of SGAs in juvenile patients.
+Key words:  Bipolar disorders, manias, metabolic syndrome, topamax
+Address for correspondence:  Dr. Mostafa Haghshenas,Department of Psychiatry, Behavioral Sciences Research Center, School of Medicine, 
+Isfahan University of Medical Sciences, Isfahan, Iran.  
+E-mail:  haghshenas2005@gmail.com
+Submitted:  02-Aug-2021; Revised:  26-Sep-2021; Accepted:  11-Dec-2021; Published:  17-Mar-2022Access this article online
+Quick Response Code:
+Website:  
+www.jmsjournal.net
+DOI:  
+10.4103/jrms.jrms_672_21How to cite this article: Arman S, Haghshenas M. Metabolic effects of adding Topiramate on Aripiprazole in bipolar patients aged between 6 -18 years, 
+a randomized, double -blind, placebo -controlled trial. J  Res Med Sci 2022;27:23.
+This is an open access journal, and articles are distributed under the terms 
+of the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 
+License, which allows others to remix, tweak, and build upon the 
+work non-commercially, as long as appropriate credit is given and 
+the new creations are licensed under the identical terms.
+For reprints contact:  WKHLRPMedknow_reprints@wolterskluwer.comOriginal  article
+Arman and Haghshenas: Topiramate controls metabolic effects of aripiprazole
+Journal of Research in Medical Sciences | 2022 | 2and the stigma of being different from their peers.[11] 
+Nonpharmacological and pharmacological strategies have 
+been approved for counteract Mets in adult population, 
+but studies in child and adolescents are currently limited  to 
+metformin due to safety concerns and efficacy issues of 
+other medications in this population.[12,13] The objective of 
+this study was to assess the metabolic effects of adding 
+topiramate on aripiprazole in bipolar patients aged 
+between 6 and 18  years, in a randomized, double‑blind, 
+placebo‑controlled trial.
+MATERIALS AND METHODS
+Participants
+Regarding to previous similar studies and difference between 
+two means formula  (α = 5%, d  = 2.5 and power  = 80%), 
+40  new bipolar patients aged between 6 and 18  years who 
+were visited or were admitted in child psychiatric units 
+of hospitals affiliated with Isfahan University of Medical 
+Sciences were participated in the study.
+Inclusion criteria
+Inclusion criteria were  lack of chronic physical illness or 
+comorbid psychiatric disorder, negative history of receiving 
+antipsychotic drugs or mood stabilizers or any other drugs 
+that could change appetite during recent 3  months before 
+the study, lack of history of allergic reaction to topiramate, 
+lack of history of renal insufficiency or renal stone, and age 
+between 6 and 18  years.
+Exclusion criteria
+Exclusion criteria were  patient’s or family’s unwillingness 
+to continue participation in study, the need for 
+electroconvulsive therapy  (ECT) treatment during the 
+study, and any unexpected new physical illness that could 
+potentially change medical care of the patient. The written 
+consent was signed by parents/guardians and the assent 
+was given by adolescents.
+Design
+This study was designed as a double‑blind, 
+placebo‑controlled trial and conducted from July 2020 to 
+July 2021 during 3 phases  (0, 1, 3 months). Our study was 
+approved in the Ethics Committee of Isfahan University 
+of Medical Sciences  (IR.MUI.MED.REC.1399.235), and 
+the study protocol was registered in the Iranian Registry 
+of Clinical Trials  (IRCT20200606047668N1). All the 
+researchers of this study were believed in Helsinki Ethical 
+principles. Study treatments were randomly assigned using 
+an online computerized randomization system. Eligible 
+participants received double‑blind topiramate  (Darou 
+Pakhsh, IRAN) and aripiprazole  (Dr. Abidi, IRAN) as 
+Group 1 or aripiprazole as Group  2 in 1:1 ratios. Starting 
+dose of aripiprazole in both groups was 5  mg/day orally and increased weekly to a maximum dose of 10–30  mg/
+day. Subjects in group  1 were given topiramate starting 
+at 12.5 mg orally/day, which was titrated up by 12.5  mg/
+week as tolerated without side effects  (nausea, vomiting 
+and memory disturbances) up to a target dose of 150  mg/
+day. Patients were evaluated over a 12‑week period to 
+monitor psychiatric symptoms and metabolic profile and 
+side effects and were instructed not to change their baseline 
+diet or activity level during the study. Diagnosis of BD 
+and rule‑out of other comorbid psychiatric disorders were 
+made by a child and adolescent psychiatrist according to 
+Diagnostic and Statistical Manual of Mental Disorders, 
+5th Edition (DSM ‑5) criteria and by a semi‑structured 
+diagnostic interview, using kiddie schedule for affective 
+disorders and schizophrenia that provides reliable and 
+valid youth psychiatric diagnoses in Iranian population.[14,15] 
+Symptom severity improvement was assessed using young 
+mania rating scale  (YMRS) that has adequate psychometric 
+properties in the Iranian population.[16] The scale has 11 
+items and is based on the patient’s subjective report of his 
+or her clinical condition over the previous 48  h.
+Clinical measures and safety monitoring were conducted 
+during all visits. Laboratory tests for metabolic profile 
+including fasting blood sugar(FBS), triglyceride(TG),chol
+esterol(Chol), low‑density lipoprotein (LDL), high‑density 
+lipoprotein (HDL), and hemoglobin A1C (HbA1C) were 
+conducted at weeks 0, 4, and 12. Girls above the age 9 took a 
+urine pregnancy test before initiating the research. Primary 
+outcome measures included weight, height, body mass 
+index (BMI), waist circumference, abdominal circumference, 
+and blood pressure. Secondary outcome measures included 
+lipid profile, FBS, HbA1C, fasting insulin, and fasting lipid 
+profile.
+Statistical analysis
+After data gathering, measures analyzed with Statistical 
+Package for the Social Sciences  (SPSS Inc., Chicago, USA) 
+version 14 were shown as n  (%) and mean  ± standard 
+deviation  (SD). Significance determined as  P < 0.05. 
+Regarding normal distribution of measurements, based on 
+Kolmogorov–Smirnov test, Chi‑square test and independent 
+t‑test were used when appropriate. For quantitative 
+outcome measures, we used repeated‑measures analyzes 
+of covariance after adjustment of confounding variables 
+such as age, gender, history of previous hospitalization or 
+substance use disorder, and the dose of aripiprazole.
+RESULTS
+Participants consisted of 40 new bipolar patients between 
+age 6 and 18 with equal numbers in topiramate and 
+placebo groups. Eleven of participants were excluded from 
+study (5 in topiramate group and 6 in placebo group). Six 
+Arman and Haghshenas: Topiramate controls metabolic effects of aripiprazole
+Journal of Research in Medical Sciences | 2022 | 3patients were excluded due to incomplete use of drug or 
+unwillingness to stay in study. Two participants excluded 
+due to exacerbation of symptoms and need for ECT and 
+other appropriate treatments and three patients were 
+excluded due to drug side effects. In this study, one of the 
+participants in control group suffered from restlessness and 
+irritability after drug administration. One of participants in 
+treatment group expressed dystonia. Elevated liver enzymes 
+were observed in another patient in the same group during 
+the study. All of them were referred for further evaluation 
+and appropriate intervention  [Figure 1].
+Finally, 75% of participants in Group  1 and 70% in Group  2 
+completed the study. The mean age of participants that 
+completed the trial was 12.93. Among these, 44.8% were 
+girls. The statistical analysis did not show any significant 
+difference in baseline characteristics such as age, gender, 
+previous hospitalization history, educational status of the 
+patients and parents, and history of metabolic disorders in 
+family members between groups  [Table  1].
+Groups 1 and 2 were not significantly different regarding the 
+dose of aripiprazole at the baseline in time 0  (0 vs. 0 mg), after 
+4 weeks in time1  (12.33 ± 4.58 mg vs. 10.89  ± 3.61 mg) and at 
+the end point of study at time 2, respectively  (15.33 ± 8.12 mg 
+vs. 13.57  ± 3.49 mg) (P > 0.05). Mean topiramate dose in Group 1 in time1 was 52.50  ± 27.63 mg, and at the time 2 
+was 55.00  ± 27.06 mg (P > 0.05).
+The severity of bipolar symptoms decreased significantly 
+over a 3‑month period of time in both groups while using 
+YMRS (P < 0.001). In addition, the mean  ± SD of YMRS was 
+lower in Group  1 compared to Group  2 but this difference 
+was only statistically significant at the time 2  (7.53 ± 4.15 vs. 
+12.67 ± 7.15) (P < 0.028) [Table  2].
+In pairwise comparison of all anthropometric parameters 
+during time 0, time 1, and time 2, there was no significant 
+difference between groups  (P > 0.05). But in Group  2, the 
+mean ± SD of weight in time 2  (61.49 ± 17.84) was higher 
+in comparison with time 0  (59.06 ± 18.40) with statistically 
+significant difference  (P = 0.012). BMI comparison in Group  2 
+has a similar pattern and statistically significant  (P = 0.016) 
+different levels in time 2  (24.41 ± 4.08) compared with time 
+0 (23.92 ± 4.08) [Table  3].
+Finally, within‑group comparison of metabolic parameters 
+concluded that the mean of LDL in Group  1 decreased 
+significantly during the 3‑month follow‑up  (P = 0.015). In 
+contrast, mean of HDL in Group  2 significantly increased 
+during the same period of time  (P = 0.024). Comparison 
+of other metabolic parameters revealed no significant 
+Figure  1: consort diagram
+Arman and Haghshenas: Topiramate controls metabolic effects of aripiprazole
+Journal of Research in Medical Sciences | 2022 | 4difference within and between groups during time 0‑time 
+2 interval  (P > 0.05) [Table  4].
+DISCUSSION
+This study showed that a 3‑month treatment with 
+aripiprazole  (with and without topiramate) would result 
+in improvement of manic symptoms’ severity. Moreover, 
+addition of topiramate to this treatment amplifies the 
+aforementioned positive therapeutic effects. In addition, this study revealed that a 3‑month treatment with aripiprazole 
+in placebo group was significantly associated with weight 
+gain and subsequent BMI changes. Although adding 
+topiramate would not result in weight loss and decrease 
+in BMI, counteracts with some SGA‑induced metabolic 
+adverse effects such as weight gain and morbid obesity. 
+Other findings included significant decrease in LDL levels in 
+Group 1 and statistically significant increase of HDL levels 
+in Group  2; however, these changes were within normal 
+range and would have no clinical significance. Data on 
+metabolic effects of topiramate in BD of young child and 
+adolescents are limited and previous studies have shown 
+different results.[17-19] In 2007, Tramontina S  et al. who 
+used a different methodology showed that topiramate has 
+antimanic effects in adolescents and is effective in decreasing 
+weight when given over  12 weeks.[20] They examined patients 
+who presented with over  5% increase in their weight when 
+compared with baseline, but in our study, the preventive 
+effects of Topiramate were considered. Similar study by 
+Li et al. in 2008 on effects of topiramate on weight and 
+metabolism in children with epilepsy demonstrated that 
+BMIs of children with epilepsy decreased signi ficantly 
+during a 12‑week treatment period with topiramate, but 
+the decrease had no correlation to the dosage of topiramate, 
+suggesting that topiramate‑induced weight loss is 
+independent of its dosage.[21] Similar to our study, they found 
+no significant differences on plasma FBS and insulin indices 
+before and after the treatment and the author concluded 
+that the change of glucose metabolism could not be a key 
+factor to cause decrease of weight in topiramate treatment. 
+Shapiro M,  et al. who came up with similar findings[22] found 
+that topiramate and zonisamide may be utilized for weight 
+loss in a pediatric psychopharmacological treatment regimen 
+but their participants population included epileptic patients 
+and the study design was medical record review. Javad 
+Mahmoudi‑Gharae et al. in 2012 compared the effects of 
+topiramate versus valproate sodium as an add‑on therapy to 
+a combination of lithium and risperidone  (Li + Ris) on body 
+weight and serum lipid profile in children and adolescents 
+with BD.[23] They found that when topiramate and valproate 
+sodium are used for 6  weeks as adjunctive treatment to a 
+combination of Li  + Ris, they act alike on lipid milieu of 
+children and adolescents with BD. Other finding of this study 
+was that Both Li  + Ris/Valproate and Li  + Ris/Topiramate 
+therapies can lead to an increase in BMI z‑score. This 
+increase was statistically significant with Li  + Ris/Valproate 
+therapy, which suggests that topiramate could attenuate 
+the ongoing weight gain from lithium and risperidone. 
+However, according to the discussion in the end of their 
+study, it should be emphasized that metabolic changes 
+could have been potentially obscured by administration 
+of the combination regimen used in this trial. In addition, 
+past treatment exposures, including prior “double hit” by 
+lithium and risperidone, may have influenced the result of Table  1: Baseline demographic and clinical 
+characteristics of patients
+Characteristics Group  1 
+(n=15), 
+n (%)Group  2 
+(n=14), 
+n (%)P
+Age (years) 13.13±1.64 12.71±3.07 0.64
+Gender
+Boy 9 (60.0) 7 (50.0) 0.71
+Girl 6 (40.0) 7 (50.0)
+Previous hospitalization 
+history1 (6.7) 0 0.99
+History of substance use 1 (6.7) 0 0.99
+Education status
+Illiterate 0 2 (14.3)
+Primary 4 (26.7) 6 (42.9) 0.06
+high school 11 (73.3) 6 (42.9)
+Father’s level of education
+Illiterate 0 1 (7.1) 0.74
+Primary 3 (20.0) 2 (14.3)
+Diploma 9 (60.0) 8 (57.1)
+University 3 (20.0) 3 (21.4)
+Mother’s level of education
+Illiterate 0 1 (7.1) 0.10
+Primary 5 (33.3) 1 (7.1)
+Diploma 4 (26.7) 10 (71.5)
+University 6 (40.0) 2 (14.3)
+History of family disease
+DM 2 (13.3) 6 (42.9) 0.10
+HTN 4 (26.7) 6 (42.9) 0.45
+IHD 4 (26.7) 6 (42.9) 0.45
+Obesity 9 (60.0) 4 (28.6) 0.13
+Hyperlipidemia 4 (26.7) 4 (28.6) 0.90
+Aripiprazole plus topiramate  (Group  1); Aripiprazole  (Group  2). DM=Diabetes 
+mellitus; HTN=Hypertension; IHD=Ischemic heart disease
+Table  2: Comparison of Young Mania Rating Scale 
+within and between groups
+YMRS Group  1 (n=15) Group  2 (n=14) Pa
+T0 29.93±6.27 33.36±8.50 0.22
+T1 12.87±6.25 14.50±5.79 0.47
+T2 7.53±4.15 12.67±7.15 0.02
+Pb <0.001 <0.001
+aComparison of the mean of the variable between the two groups using independent 
+t-test; bComparison of mean variable changes over time  (over  3 months) in 
+each of the two groups using Repeated measure ANOVA; Aripiprazole plus 
+Topiramate  (Group  1); Aripiprazole  (Group  2). YMRS=Young Mania Rating Scale; 
+T0=Before intervention; T1=After 4  weeks from the start of intervention; T2=At the 
+end of 3 months
+Arman and Haghshenas: Topiramate controls metabolic effects of aripiprazole
+Journal of Research in Medical Sciences | 2022 | 5this study, which precludes precise conclusions about direct 
+metabolic changes with valproate sodium and topiramate. 
+Fox CK, et al. assessed the safety and efficacy of short‑term 
+meal replacement therapy followed by topiramate for BMI 
+reduction in adolescents with severe obesity.[24] In summary, 
+their trial during 24  weeks with topiramate at a dose of 
+75 mg/day demonstrated limited efficacy for BMI reduction 
+in adolescents with severe obesity compared to placebo.
+Animal studies have shown that topiramate could 
+increase the insulin sensitivity and decrease the blood 
+concentration of insulin, both of which will cause a 
+loss of appetite and an increase of lipid metabolism.[25] 
+Wilkes’ group found that topiramate could reduce insulin 
+resistance.[26]
+CONCLUSION
+In summary, this trial demonstrates the efficacy of 
+topiramate as adjuvant treatment for controlling BD as well 
+as metabolic adverse effects of SGAs in juvenile patients. Although metabolic and anthropometric parameters 
+remained in normal clinical range during this study, they Table  3: Comparison of anthropometric parameters 
+within and between groups
+Anthropometric 
+parametersGroup  1 (n=15) Group  2 (n=14) Pa
+Height  (cm)
+T0 159.73±8.28 155.28±16.44 0.36
+T1 160.00±8.49 156.53±16.62 0.48
+T2 161.73±9.14 157.43±16.89 0.39
+Pb 0.33 0.89
+Weight  (kg)
+T0 65.31±16.49 59.06±18.40 0.34
+T1 64.28±15.51 60.18±17.67 0.51
+T2 63.63±15.20 61.49±17.84 0.73
+Pb 0.86 0.01
+BMI (kg/m2)
+T0 25.41±5.33 23.92±4.08 0.40
+T1 24.95±4.99 24.10±3.82 0.61
+T2 24.09±4.11 24.41±4.08 0.83
+Pb 0.59 0.01
+WC (cm)
+T0 89.20±11.79 83.57±11.84 0.21
+T1 86.33±11.21 83.93±12.23 0.58
+T2 85.47±12.46 84.93±12.34 0.90
+Pb 0.25 0.92
+HiC (cm)
+T0 97.93±13.18 93.39±13.54 0.36
+T1 97.07±11.58 95.18±14.82 0.70
+T2 95.05±12.31 96.86±13.82 0.71
+Pb 0.94 0.84
+aComparison of the mean of the variable between the two groups using independent 
+t-test; bComparison of mean variable changes over time  (over  3 months) in 
+each of the two groups using Repeated measure ANOVA; Aripiprazole plus 
+Topiramate  (Group  1); Aripiprazole  (Group  2). BMI=Body mass index; HiC=Hip 
+circumference; WC=Waist circumference; T0=Before intervention; T1=After 4  weeks 
+from the start of intervention; T2=At the end of 3 monthsTable  4: Comparison of metabolic parameters within and 
+between groups
+Variables Group  1 (n=15) Group  2 (n=14) Pa
+SBP (mmHg)
+T0 111.80±11.39 106.86±9.31 0.21
+T1 114.07±11.67 109.36±14.37 0.34
+T2 114.40±11.60 109.93±7.99 0.24
+Pb 0.93 0.34
+DBP (mmHg)
+T0 67.47±8.11 66.00±10.08 0.66
+T1 66.07±8.65 70.50±9.69 0.20
+T2 67.00±6.71 71.71±7.05 0.07
+Pb 0.19 0.42
+TG (mg/dL)
+T0 116.87±41.46 100.36±29.97 0.40
+T1 118.60±53.18 103.57±64.08 0.49
+T2 122.80±53.23 100.85±78.97 0.39
+Pb 0.57 0.18
+TC (mg/dL)
+T0 155.00±28.53 151.93±37.55 0.80
+T1 153.00±27.96 161.00±40.34 0.53
+T2 150.40±27.41 158.38±40.18 0.54
+Pb 0.85 0.52
+LDL (mg/dL)
+T0 90.40±21.58 79.96±34.10 0.33
+T1 86.93±25.99 90.93±33.07 0.71
+T2 83.48±35.28 89.77±34.83 0.64
+Pb 0.01 0.68
+HDL (mg/dL)
+T0 42.37±4.53 46.86±11.44 0.21
+T1 42.47±8.97 54.57±19.71 0.05
+T2 45.00±9.80 48.23±12.15 0.44
+Pb 0.33 0.02
+FBS (mg/dL)
+T0 92.00±8.16 89.50±8.75 0.06
+T1 90.67±8.28 89.43±6.85 0.66
+T2 94.13±15.00 90.85±6.41 0.47
+Pb 0.56 0.57
+HbA1C  (%)
+T0 5.26±0.31 5.02±0.47 0.11
+T1 5.13±0.28 5.26±0.51 0.39
+T2 5.17±0.44 5.27±0.41 0.55
+Pb 0.29 0.61
+Fasting insulin level  (IU/L)
+T0 16.19±12.05 10.52±7.18 0.13
+T1 16.66±13.30 11.62±6.01 0.20
+T2 18.16±13.11 12.90±7.53 0.21
+P2 0.43 0.70
+aComparison of the mean of the variable between the two groups using independent 
+t-test; bComparison of mean variable changes over time  (over  3 months) in 
+each of the two groups using Repeated measure ANOVA; Aripiprazole plus 
+Topiramate  (Group  1); Aripiprazole  (Group  2). BP=Blood pressure; SBP=Systolic 
+BP; DBP=Diastolic BP; TG=Triglycerides; TC=Triglycerides; LDL=Low-density 
+lipoprotein cholesterol; HDL=High-density lipoprotein cholesterol; FBS=Fasting 
+blood sugar; HbA1C=Hemoglobin A1c; T0=Before intervention; T1=After 4  weeks 
+from the start of intervention; T2=At the end of 3 months
+Arman and Haghshenas: Topiramate controls metabolic effects of aripiprazole
+Journal of Research in Medical Sciences | 2022 | 6may be due to lower metabolic adverse effect of aripiprazole 
+compared with other SGAs, small sample size, or short 
+duration of study. The limitation of this study included large 
+amount of participant dropouts in both case and control 
+groups and subsequent small sample size to observe more 
+clinically significant effects. Given this limitation, further 
+investigations with longer follow‑up can provide more 
+accurate results.
+Acknowledgments
+Ethical approval number IR.MUI.MED.REC.1399.235
+Financial support and sponsorship
+Nil.
+Conflicts of interest
+There are no conflicts of interest.
+REFERENCES
+1. Peruzzolo  TL, Tramontina  S, Rohde LA, Zeni CP. Pharmacotherapy 
+of bipolar disorder in children and adolescents: An update. Braz J 
+Psychiatry 2013;35:393‑405.
+2. Vigo D, Thornicroft  G, Atun R. Estimating the true global burden 
+of mental illness. Lancet Psychiatry 2016;3:171‑8.
+3. Bai YM, Li CT, Tsai  SJ, Tu PC, Chen  MH, Su TP. Metabolic 
+syndrome and adverse clinical outcomes in patients with bipolar 
+disorder. BMC Psychiatry 2016;16:448.
+4. Wu CS, Tsai YT, Tsai HJ. Antipsychotic drugs and the risk of 
+ventricular arrhythmia and/or sudden cardiac death: A  nation‑wide 
+case‑crossover study. J  Am Heart Assoc 2015;4:e001568.
+5. Galling B, Roldán A, Nielsen  RE, Nielsen  J, Gerhard  T, Carbon  M, 
+et al. Type 2 diabetes mellitus in youth exposed to antipsychotics: 
+A systematic review and meta‑analysis. JAMA Psychiatry 
+2016;73:247‑59.
+6. Eapen V, John G. Weight gain and metabolic syndrome among 
+young patients on antipsychotic medication: What do we know 
+and where do we go? Australas Psychiatry 2011;19:232‑5.
+7. Kaplin DB, Conca‑Cheng  A, Findling  RL. Psychopharmacologic 
+treatment of children and adolescents with bipolar disorder: 
+A review. Adolesc Psychiatry 2015;5:50‑63.
+8. Yee CS, Hawken  ER, Baldessarini  RJ, Vázquez GH. Maintenance 
+pharmacological treatment of juvenile bipolar disorder: Review 
+and meta‑analyses. Int J Neuropsychopharmacol 2019;22:531‑40.
+9. Olfson M, Blanco  C, Liu SM, Wang  S, Correll  CU. National trends 
+in the office‑based treatment of children, adolescents, and adults 
+with antipsychotics. Arch Gen Psychiatry 2012;69:1247‑56.
+10. Bretler T, Weisberg  H, Koren  O, Neuman  H. The effects of 
+antipsychotic medications on microbiome and weight gain in 
+children and adolescents. BMC Med 2019;17:112.
+11. Sun AY, Woods  S, Findling  RL, Stepanova  E. Safety considerations 
+in the psychopharmacology of pediatric bipolar disorder. Expert 
+Opin Drug Saf 2019;18:777‑94.
+12. Cernea S, Dima  L, Correll  CU, Manu  P. Pharmacological 
+management of glucose dysregulation in patients treated with second‑generation antipsychotics. Drugs 2020;80:1763‑81.
+13. Arman S, Sadramely  MR, Nadi  M, Koleini  N. A randomized, 
+double‑blind, placebo‑controlled trial of metformin treatment for 
+weight gain associated with initiation of risperidone in children 
+and adolescents. Saudi Med J 2008;29:1130‑4.
+14. Shahrivar  Z, Kousha  M, Moallemi  S, Tehrani‑Doost  M, 
+Alaghband‑Rad  J. The reliability and validity of kiddie‑schedule 
+for affective disorders and schizophrenia  – Present and 
+life‑time version  – Persian version. Child Adolesc Ment Health 
+2010;15:97‑102.
+15. Ghanizadeh  A, Mohammadi  MR, Yazdanshenas  A. Psychometric 
+properties of the Farsi translation of the kiddie schedule for 
+affective disorders and schizophrenia‑present and lifetime version. 
+BMC Psychiatry 2006;6:10.
+16. Mohammadi  Z, Pourshahbaz  A, Poshtmashhadi  M, Dolatshahi  B, 
+Barati F, Zarei M. Psychometric properties of the young mania 
+rating scale as a mania severity measure in patients with bipolar 
+I disorder. Pract Clin Psychol 2018;6:175‑82.
+17. Dayabandara  M, Hanwella  R, Ratnatunga  S, Seneviratne  S, 
+Suraweera  C, de Silva  VA. Antipsychotic‑associated weight gain: 
+Management strategies and impact on treatment adherence. 
+Neuropsychiatr Dis Treat 2017;13:2231‑41.
+18. Sonmez FM, Zaman  D, Aksoy  A, Deger  O, Aliyazicioglu  R, 
+Karaguzel  G, e t al. The effects of topiramate and valproate 
+therapy on insulin, c‑peptide, leptin, neuropeptide Y, adiponectin, 
+visfatin, and resistin levels in children with epilepsy. Seizure 
+2013;22:856‑61.
+19. Cichoń L, Janas‑Kozik  M, Siwiec  A, Rybakowski  JK. Clinical 
+picture and treatment of bipolar affective disorder in children and 
+adolescents. Psychiatr Pol 2020;54:35‑50.
+20. Tramontina  S, Zeni CP, Pheula  G, Rohde  LA. Topiramate in 
+adolescents with juvenile bipolar disorder presenting weight gain 
+due to atypical antipsychotics or mood stabilizers: An open clinical 
+trial. J Child Adolesc Psychopharmacol 2007;17:129‑34.
+21. Li HF, Zou  Y, Xia ZZ, Gao  F, Feng JH, Yang  CW. Effects of 
+topiramate on weight and metabolism in children with epilepsy. 
+Acta Paediatr 2009;98:1521‑5.
+22. Shapiro M, Reid A, Olsen  B, Taasan  M, McNamara  J, Nguyen  M. 
+Topiramate, zonisamide and weight loss in children and 
+adolescents prescribed psychiatric medications: A  medical record 
+review. Int J Psychiatry Med 2016;51:56‑68.
+23. Mahmoudi‑Gharaei  J, Shahrivar  Z, Faghihi  T, Mohammadi  MR, 
+Tehrani‑Doost  M, Alaghband‑Rad  J, e t al. Topiramate versus 
+valproate sodium as adjunctive therapies to a combination of 
+lithium and risperidone for adolescents with bipolar I disorder: 
+Effects on weight and serum lipid profiles. Iran J Psychiatry 
+2012;7:1‑10.
+24. Fox CK, Kaizer  AM, Rudser  KD, Nathan  BM, Gross  AC, Sunni  M, 
+et al. Meal replacements followed by topiramate for the treatment 
+of adolescent severe obesity: A  pilot randomized controlled trial. 
+Obesity (Silver Spring) 2016;24:2553‑61.
+25. Richard D, Picard  F, Lemieux  C, Lalonde  J, Samson  P, Deshaies  Y. 
+The effects of topiramate and sex hormones on energy balance of 
+male and female rats. Int J Obes Relat Metab Disord 2002;26:344‑53.
+26. Wilkes JJ, Nguyen  MT, Bandyopadhyay  GK, Nelson  E, Olefsky  JM. 
+Topiramate treatment causes skeletal muscle insulin sensitization 
+and increased Acrp30  secretion in high‑fat‑fed male Wistar rats. 
+Am J Physiol Endocrinol Metab 2005;289:E1015‑22.
